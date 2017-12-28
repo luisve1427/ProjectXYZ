@@ -1,4 +1,4 @@
 ProjectXYZ
 
-Feature My Feature...
+Feature My Feature.Bug fixed
 Release notes
